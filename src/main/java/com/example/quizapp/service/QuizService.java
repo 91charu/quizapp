@@ -65,4 +65,4 @@ public class QuizService {
         return new ResponseEntity<>(right, HttpStatus.OK);
     }
 }
-}
+
